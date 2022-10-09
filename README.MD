@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chathurajmhb7@gmail.com**
 
-- ⚡ Fun fact **I play games and editing videos in my sparetime**
+- ⚡ Fun fact **I love to play games and editing videos in my sparetime**
 
 ## 🚀 Languages and Tools:
 
