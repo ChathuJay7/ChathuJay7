@@ -1,6 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chathura Jeewantha</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chathura Jeewantha</h1> -->
+
+<h1 align="center">Hi <img src="https://www.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_10780377.htm#page=2&query=coding%20cartoon&position=39&from_view=keyword" width="30px">, I'm Chathura Jeewantha</h1>
 <h3 align="center">Passionate full-stack developer, enthusiastic about backend.</h3>
 
 
