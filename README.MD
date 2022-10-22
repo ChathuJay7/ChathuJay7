@@ -1,5 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg?w=740&t=st=1666457348~exp=1666457948~hmac=41f4265f46235284ac09da81f559e175ef962d73176bc5be3814afa34631ff2d" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?w=826&t=st=1666457565~exp=1666458165~hmac=77cc5cd4df49175ce078f61d7428b7bf80ca8be2f5d55fa3cbbd602f2546ee1b" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chathura Jeewantha</h1>
 
