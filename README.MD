@@ -50,14 +50,16 @@
         <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chathujay7" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
     <!-- </a> -->
 
+## 📊 My Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathujay7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="chathujay7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathujay7&show_icons=true&locale=en" alt="chathujay7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathujay7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="chathujay7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&" alt="chathujay7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="chathujay7" /></p>
 </p>
 
-## 📊 My Github Stats
+
 
   <!-- <br/>
     <a href="https://github.com/ChathuJay7/github-readme-stats"><img alt="Chathura Jeewantha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChathuJay77&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
