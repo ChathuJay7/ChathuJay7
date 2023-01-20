@@ -79,11 +79,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yureshtharushika&show_icons=true&locale=en&layout=compact" alt="chathurajay7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathujay7&show_icons=true&locale=en&layout=compact" alt="chathujay7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yureshtharushika&show_icons=true&locale=en" alt="chathurajay7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathujay7&show_icons=true&locale=en" alt="chathujay7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yureshtharushika&" alt="chathurajay7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&" alt="chathujay7" /></p>
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
