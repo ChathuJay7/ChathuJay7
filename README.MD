@@ -95,10 +95,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="chathujay7" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathujay7&label=Profile%20views&color=0e75b6&style=flat" alt="rajithasandeera" /> </p>
-
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathujay7&label=Profile%20views&color=0e75b6&style=flat" alt="rajithasandeera" /> </p>
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
