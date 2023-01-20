@@ -99,7 +99,7 @@
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathujay7&label=Profile%20views&color=0e75b6&style=flat" alt="rajithasandeera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathujay7&label=Profile%20views&color=0e75b6&style=flat" alt="chathujay7" /> </p>
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
