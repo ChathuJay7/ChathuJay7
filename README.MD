@@ -53,7 +53,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  <!-- <br/>
     <a href="https://github.com/ChathuJay7/github-readme-stats"><img alt="Chathura Jeewantha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChathuJay77&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ChathuJay7/github-readme-stats"><img alt="Chathura Jeewantha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathuJay7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -65,7 +65,7 @@
 
 <a href="https://github.com/chathujay7/github-readme-activity-graph"><img alt="Chathura Jeewantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chathujay7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 <br/>
 
 ## Connect with me:
@@ -79,11 +79,11 @@
 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathujay7&show_icons=true&locale=en&layout=compact" alt="chathujay7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathujay7&show_icons=true&locale=en&layout=compact" alt="chathujay7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathujay7&show_icons=true&locale=en" alt="chathujay7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&" alt="chathujay7" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathujay7&" alt="chathujay7" /></p>
 
 
 
